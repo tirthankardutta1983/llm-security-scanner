@@ -38,14 +38,9 @@ python3 cli.py --provider openai --api-key sk-... --with-garak
 Tirthankar Dutta — github.com/tirthankardutta1983
 ## Screenshots
 
-### Terminal Output
-![Terminal Output](docs/screenshot_terminal.png)
+## Demo
+![Demo](docs/demo.gif)
 
-### Security Report Dashboard
-![Security Report](docs/screenshot_report.png)
-
-### Vulnerability Heatmap
-![Heatmap](docs/screenshot_heatmap.png)
 ## Related Projects
 - [agent-security-auditor](https://github.com/tirthankardutta1983/agent-security-auditor) — 
   Audit AI agent architectures against MITRE ATLAS before deployment
