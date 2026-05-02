@@ -36,3 +36,6 @@ python3 cli.py --provider openai --api-key sk-... --with-garak
 
 ## Author
 Tirthankar Dutta — github.com/tirthankardutta1983
+## Related Projects
+- [agent-security-auditor](https://github.com/tirthankardutta1983/agent-security-auditor) — 
+  Audit AI agent architectures against MITRE ATLAS before deployment
