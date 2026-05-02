@@ -1,0 +1,3 @@
+# LLM Security Scanner — Zero required dependencies (pure Python 3.8+)
+# Optional: add garak for extended probe coverage
+# garak>=0.9.0
